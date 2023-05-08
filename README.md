@@ -1,4 +1,5 @@
 # Advanced Computer Vision with mediapipe and OpenCV
+
 This repository contains the code for the Advanced Computer Vision with mediapipe and OpenCV course on [freeCodeCamp.org](https://www.youtube.com/watch?v=01sAkU_NvOY).
 
 This repository includes four Python files: `fingerCounter.py`, `HandTracking.py`, `MouseController.py` and `VolumeControlle.py`.
